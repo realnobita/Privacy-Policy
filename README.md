@@ -1,13 +1,14 @@
 <div align="center">
 
-# Flixo Privacy Policy
+# 🔐 Flixo Privacy Policy
 
-Privacy first design for the Flixo Discord music bot.
+### Privacy First • Secure by Design • Built for Discord
 
-![Privacy](https://img.shields.io/badge/Privacy-First-blue)
-![Security](https://img.shields.io/badge/Data-Secure-green)
-![Platform](https://img.shields.io/badge/Platform-Discord-black)
-![Website](https://img.shields.io/badge/Website-flixobot.in-red)
+![Privacy](https://img.shields.io/badge/Privacy-First-blue?style=for-the-badge)
+![Security](https://img.shields.io/badge/Data-Secure-green?style=for-the-badge)
+![Platform](https://img.shields.io/badge/Platform-Discord-black?style=for-the-badge)
+![Music](https://img.shields.io/badge/Bot-Music%20Streaming-purple?style=for-the-badge)
+![Website](https://img.shields.io/badge/Website-flixobot.in-red?style=for-the-badge)
 
 </div>
 
@@ -15,44 +16,45 @@ Privacy first design for the Flixo Discord music bot.
 
 ## Definitions
 
-| Term          | Meaning                                                                                       |
-| ------------- | --------------------------------------------------------------------------------------------- |
-| Bot           | Flixo and its services hosted on Discord                                                      |
-| User          | Any Discord account interacting with the bot                                                  |
-| Guild         | A Discord server                                                                              |
-| Personal Data | Information related to an identifiable individual such as User IDs or linked Spotify accounts |
+| Term              | Meaning                                                                                         |
+| ----------------- | ----------------------------------------------------------------------------------------------- |
+| **Bot**           | Flixo and its services running on Discord                                                       |
+| **User**          | Any Discord account interacting with Flixo                                                      |
+| **Guild**         | A Discord server                                                                                |
+| **Personal Data** | Information related to an identifiable user such as Discord User IDs or linked Spotify accounts |
 
 ---
 
 ## Overview
 
-This document explains how **Flixo** collects, uses, and protects information when users interact with the bot.
+This Privacy Policy explains how **Flixo** collects, uses, and protects information when users interact with the bot.
 
-Flixo is designed with a **privacy first architecture**.
-Only the minimal data required to provide bot functionality is stored.
+Flixo follows a **privacy first architecture** where only the minimum amount of data required to operate the service is stored.
 
-By using the **Flixo Discord Bot**, you agree to the practices described in this policy.
+By using the **Flixo Discord Bot**, you agree to the data practices described in this document.
 
 ---
 
 ## Data Collection
 
-Flixo stores only the necessary data required for bot functionality.
+Flixo collects only the data required for core bot functionality.
 
 ### Guild Data
 
-Guild IDs are stored to manage server specific configurations such as
+Guild IDs may be stored to manage server specific settings such as
 
-* prefix settings
+* command prefixes
 * 24/7 music mode
-* server level configurations
+* music player configurations
+* server level preferences
 
 ### User Data
 
-User IDs may be stored to support
+User IDs may be stored to provide
 
-* premium access systems
-* persistent user preferences
+* premium feature access
+* persistent user settings
+* service related configurations
 
 ### Spotify Integration
 
@@ -60,29 +62,29 @@ If a user links their Spotify account, the bot may store
 
 * Spotify profile URLs
 
-This is used strictly for music related features such as syncing playback.
+This data is used only for music related features like playback syncing.
 
 ---
 
 ## Data We Do Not Collect
 
-Flixo does **not** collect or store the following information
+Flixo **does not collect or store**
 
 * usernames
 * email addresses
 * Discord messages
 * profile pictures
-* any personal identifying data outside the scope described above
+* personal identifying information beyond what is described above
 
 ---
 
 ## Data Retention
 
-Stored information is kept only as long as required for bot operation.
+Stored data is kept only as long as required to maintain bot functionality.
 
-Inactive guild or user data may be periodically removed from the database.
+Inactive guild or user records may be periodically removed from the database.
 
-Users may request **complete deletion of stored data** through the official website.
+Users may request **permanent deletion of their stored data** through the official website.
 
 https://flixobot.in
 
@@ -92,8 +94,8 @@ https://flixobot.in
 
 Users have the right to
 
-* request access to their stored data
-* request deletion of all stored information
+* request access to stored data associated with their user ID
+* request deletion of all stored data
 
 Requests can be submitted through the official website.
 
@@ -103,27 +105,27 @@ https://flixobot.in
 
 ## Children's Privacy
 
-Flixo is not intended for individuals under the age of **13** or the minimum required age in their jurisdiction.
+Flixo is **not intended for individuals under the age of 13** or the minimum legal age in their jurisdiction.
 
-We do not knowingly collect data from children.
+We do not knowingly collect personal data from children.
 
 ---
 
 ## Bot Usage Rules
 
-By using Flixo you agree to the following rules.
+While using Flixo you agree to the following rules.
 
 ### No Spamming
 
-Automated or excessive command usage is prohibited.
+Excessive or automated command usage is prohibited.
 
 ### No Advertising
 
-The bot may not be used for promotional or advertising activities.
+The bot may not be used for promotional or advertising purposes.
 
 ### No Exploits or Abuse
 
-Attempting to exploit vulnerabilities, reverse engineer the bot, or abuse the service may result in permanent bans.
+Attempting to exploit vulnerabilities, reverse engineer the bot, or misuse the service may result in permanent bans.
 
 ### Bug Reporting
 
@@ -135,7 +137,7 @@ https://flixobot.in
 
 ## Third Party Services
 
-Flixo integrates with several third party platforms for music playback.
+Flixo integrates with several third party platforms to provide music playback.
 
 Supported integrations include
 
@@ -143,7 +145,7 @@ Supported integrations include
 * Deezer
 * SoundCloud
 
-These services may collect their own data according to their respective privacy policies.
+These services may collect their own data based on their respective privacy policies.
 
 Flixo does **not share user data** beyond what is required for integration.
 
@@ -153,25 +155,25 @@ Flixo does **not share user data** beyond what is required for integration.
 
 The following systems may process data strictly for operational purposes.
 
-| Service                | Purpose                                 |
-| ---------------------- | --------------------------------------- |
-| Discord API            | Handling commands and user interactions |
-| Lavalink               | Audio streaming and music playback      |
-| Hosting Infrastructure | Running bot services                    |
+| Service                | Purpose                               |
+| ---------------------- | ------------------------------------- |
+| Discord API            | Command handling and user interaction |
+| Lavalink               | Audio streaming and music playback    |
+| Hosting Infrastructure | Running the bot services              |
 
-Flixo does not sell or share user data with advertisers or marketing platforms.
+Flixo does **not sell, rent, or share user data with advertisers or marketing services**.
 
 ---
 
 ## Data Security
 
-Flixo implements modern security practices to protect stored data.
+Flixo implements modern security practices to protect stored information.
 
 Security measures include
 
 * restricted database access
-* administrator access control
-* protection against unauthorized modification or loss
+* administrator level access control
+* safeguards against unauthorized access or data loss
 
 ---
 
@@ -181,9 +183,9 @@ Users may request
 
 * a copy of stored data
 * deletion of all stored records
-* revocation of third party integrations
+* removal of third party integrations
 
-Requests can be made through the official website.
+Requests can be submitted through the official website.
 
 https://flixobot.in
 
@@ -193,11 +195,11 @@ https://flixobot.in
 
 This privacy policy may be updated when required.
 
-Significant changes will be published through the official website.
+Any significant changes will be published through the official website.
 
 https://flixobot.in
 
-Continued use of the service indicates acceptance of the updated policy.
+Continued use of Flixo indicates acceptance of the updated policy.
 
 ---
 
@@ -210,6 +212,8 @@ https://flixobot.in
 ---
 
 <div align="center">
+
+**© Flixo Bot — All Rights Reserved**
 
 Flixo is an independent project and is not affiliated with or endorsed by Discord Inc., Spotify, Deezer, or SoundCloud.
 
