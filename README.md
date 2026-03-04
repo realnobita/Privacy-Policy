@@ -1,83 +1,205 @@
-# Flixo's Privacy Policy  
+# 🔐 Flixo Privacy Policy
 
-## 0. Definitions  
-- **"Bot"** refers to Flixo and its services hosted on Discord.  
-- **"User"** refers to any Discord account interacting with the Bot.
-- **"Guild"** means a Discord server.
-- **"Personal Data"** refers to information related to an identifiable individual, such as User IDs or linked Spotify accounts.
-
-## 1. Overview  
-This Privacy Policy explains how Floovi  ("we", "us", or "our") collects, uses, and protects personal information. By using the Floovi bot ("Service"), you agree to the practices described in this policy.  
-
-## 2. Data We Collect  
-We collect only the minimum data necessary to provide functionality:  
-
-- **Guild IDs**: Used to manage per-server settings such as prefixes, 24/7 mode, and configurations.  
-- **User IDs**: Required to provide features like premium access or persistent settings.  
-- **Spotify Profile URLs**: Collected only if you link your Spotify account, to enable personalized features (e.g., playback, syncing).  
-
-> We do **not** collect or store usernames, email addresses, messages, profile pictures, or any personally identifying information beyond what's stated.  
-
-## 3. Data Retention  
-Data is stored securely and retained only as long as necessary to operate the bot. Inactive guild or user data may be periodically deleted.  
-
-You may request the full deletion of your data by contacting us via the [Support Server](https://discord.gg/HaD5sYEj8w).  
-
-## 4. User Rights  
-You have the right to:  
-- Request access to the data associated with your account  
-- Request deletion of all stored data
-
-## 5. Children's Privacy  
-Floovi is not intended for individuals under the age of 13 (or the equivalent minimum age in your jurisdiction). We do not knowingly collect personal data from children.  
-
-## 6. Bot Usage Rules  
-By using Flixo, you agree to the following:  
-- **No Spamming** – Excessive or automated command usage is prohibited.  
-- **No Advertising** – Promotional content using the bot is not allowed.  
-- **No Exploits or Abuse** – Attempting to hack, reverse engineer, or misuse the bot will result in permanent bans.  
-- **Bug Reporting** – If you discover a bug, please report it via the [Support Server](https://discord.gg/HaD5sYEj8w).  
-
-## 7. Third-Party Services  
-Flixo interacts with third-party APIs such as **Spotify**, **Deezer**, and **SoundCloud** to provide music playback functionality.  
-
-- These services may collect their own data based on your usage.  
-- Their respective privacy policies apply independently of ours.  
-- We do not share your data with these services beyond what is required for integration.  
-
-You are encouraged to review their privacy policies directly.
-
-## 8. Data Sharing & Processors  
-We do **not** sell or share your data with advertisers or external marketing services.  
-
-We may use the following processors solely for operational purposes:  
-- **Discord API** – For user interactions and command handling  
-- **Lavalink or similar audio servers** – For music streaming (temporary data handling)  
-- **Hosting Providers** – For running bot services securely  
-
-## 9. Data Security  
-We use secure database practices and industry-standard safeguards to protect your information from unauthorized access, modification, or loss.  
-Access to stored data is limited to trusted administrators only.  
-
-## 10. Data Portability & Opt-Out  
-You may contact us at any time to:  
-- Request a copy of the data associated with your user ID  
-- Request deletion of all data related to you  
-- Disconnect or revoke third-party integrations (such as Spotify)  
-
-## 11. Changes to This Policy  
-We may update this policy at any time.  
-Material changes will be announced via the [Support Server](https://discord.gg/HaD5sYEj8w).  
-Continued use of the Service after changes constitutes your acceptance of the updated policy.  
-
-## 12. Contact  
-For questions, feedback, or privacy-related requests:  
-- Join our [Support Server](https://discord.gg/HaD5sYEj8w)
-
-We aim to respond to all inquiries in a timely and respectful manner.
+<p align="center">
+A transparent overview of how <b>Flixo</b> handles user data and protects privacy.
+</p>
 
 ---
 
-Flixo is an independent project and is not affiliated with or endorsed by Discord Inc., Spotify, Deezer, or SoundCloud.
+## Definitions
 
-This Privacy Policy does not create a contractual obligation between you and Floovi, but serves to explain our data handling practices in good faith.
+| Term              | Meaning                                                                                 |
+| ----------------- | --------------------------------------------------------------------------------------- |
+| **Bot**           | Flixo and its services hosted on Discord                                                |
+| **User**          | Any Discord account interacting with the bot                                            |
+| **Guild**         | A Discord server                                                                        |
+| **Personal Data** | Information related to an identifiable user such as User IDs or linked Spotify accounts |
+
+---
+
+## Overview
+
+This Privacy Policy explains how **Flixo** collects, uses, and protects user information.
+
+By using the **Flixo Discord Bot**, you agree to the practices described in this document.
+
+Flixo is designed with **privacy-first principles**, meaning only the minimum amount of data required for functionality is stored.
+
+---
+
+## Data We Collect
+
+Flixo only stores essential information required to operate bot features.
+
+### Guild Data
+
+* **Guild IDs**
+  Used to manage server specific settings such as:
+* prefixes
+* 24/7 music mode
+* server configurations
+
+### User Data
+
+* **User IDs**
+  Used to manage:
+* premium features
+* persistent user settings
+
+### Spotify Integration
+
+* **Spotify Profile URLs**
+  Collected only when a user links their Spotify account to enable:
+* personalized playback
+* music syncing features
+
+### What We Do NOT Collect
+
+Flixo **does not collect or store**:
+
+* usernames
+* email addresses
+* Discord messages
+* profile pictures
+* personal identifiable data beyond what is listed above
+
+---
+
+## Data Retention
+
+Data is stored securely and retained only for as long as required to provide bot functionality.
+
+Inactive user or guild data may be periodically removed.
+
+Users may request **complete data deletion** at any time through our official website.
+
+Website
+https://flixobot.in
+
+---
+
+## User Rights
+
+Users have the right to:
+
+* Request access to stored data associated with their account
+* Request permanent deletion of their data
+
+Requests can be made through our official website.
+
+Website
+https://flixobot.in
+
+---
+
+## Children's Privacy
+
+Flixo is **not intended for users under the age of 13** (or the minimum age required in your country).
+
+We do not knowingly collect data from children.
+
+---
+
+## Bot Usage Rules
+
+While using Flixo you agree to the following rules:
+
+**No Spamming**
+Excessive or automated command usage is not allowed.
+
+**No Advertising**
+Using the bot for promotional or advertising purposes is prohibited.
+
+**No Exploits or Abuse**
+Attempting to exploit, reverse engineer, or abuse the bot may result in permanent bans.
+
+**Bug Reporting**
+If you discover a bug please report it through our website.
+
+Website
+https://flixobot.in
+
+---
+
+## Third Party Services
+
+Flixo integrates with external music platforms including:
+
+* Spotify
+* Deezer
+* SoundCloud
+
+These services may collect their own data according to their respective privacy policies.
+
+Flixo **does not share user data with these services** beyond what is required for integration.
+
+Users are encouraged to review their policies directly.
+
+---
+
+## Data Sharing and Processors
+
+Flixo **does not sell, rent, or share user data with advertisers**.
+
+The following services may process data strictly for operational purposes:
+
+| Service           | Purpose                           |
+| ----------------- | --------------------------------- |
+| Discord API       | Command handling and interactions |
+| Lavalink          | Temporary audio processing        |
+| Hosting Providers | Running bot infrastructure        |
+
+---
+
+## Data Security
+
+Flixo uses secure database practices and modern safeguards to protect stored information.
+
+Security practices include:
+
+* restricted database access
+* trusted administrator access only
+* protection against unauthorized modification or loss
+
+---
+
+## Data Portability and Opt Out
+
+Users may request the following at any time:
+
+* a copy of their stored data
+* deletion of all stored data
+* revocation of Spotify or other integrations
+
+Requests can be submitted through the official website.
+
+Website
+https://flixobot.in
+
+---
+
+## Policy Updates
+
+This policy may be updated when required.
+
+Any significant changes will be announced on the official website.
+
+Website
+https://flixobot.in
+
+Continued use of Flixo after changes indicates acceptance of the updated policy.
+
+---
+
+## Contact
+
+For questions, feedback, or privacy related requests:
+
+Website
+https://flixobot.in
+
+---
+
+<p align="center">
+Flixo is an independent project and is not affiliated with or endorsed by Discord Inc., Spotify, Deezer, or SoundCloud.
+</p>
